@@ -1,0 +1,1 @@
+export type VendorTab = "dashboard" | "payments" | "alerts" | "settings";
